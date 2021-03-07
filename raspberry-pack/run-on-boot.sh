@@ -4,4 +4,4 @@
 mv /var/www/html/index.html /var/www/html/index.html.bak
 
 # copy our website to the right folder
-cp boot/raspberry-pack/index.html /var/www/html/index.html
+sudo cp /boot/raspberry-pack/index.html /var/www/html/index.html
