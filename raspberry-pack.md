@@ -1,1 +1,1 @@
-Apache2 hosting a website
+Apache2 hosting a simple website
